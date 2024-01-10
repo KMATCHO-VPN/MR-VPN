@@ -40,7 +40,7 @@ logo=("""\033[1;35m  .
 \033[1;37m----------------------------------------------
  Author    : KMATCHO 
  Status    : PAID
-\033[1;39m Version   : 3.0\033[1;32m
+\033[1;39m Version   : 4.0\033[1;32m
  ok ids will be saved in VPN folder
 ----------------------------------------------""")
 def line():
